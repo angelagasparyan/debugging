@@ -6,4 +6,5 @@ class User < ApplicationRecord
   # first comment
   # second comment
   # third comment
+  # forth comment
 end
