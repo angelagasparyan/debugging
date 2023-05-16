@@ -8,4 +8,5 @@ class User < ApplicationRecord
   # third comment
   # forth comment
   # fifth comment
+  # sixth comment
 end
