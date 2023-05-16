@@ -4,4 +4,5 @@ class User < ApplicationRecord
   end
 
   # first comment
+  # second comment
 end
